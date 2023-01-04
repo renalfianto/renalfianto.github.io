@@ -1,2 +1,1 @@
-#Tugas WGTIK-14
-#renalfianto.github.io
+renalfianto.github.io
